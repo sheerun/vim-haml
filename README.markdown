@@ -1,6 +1,6 @@
 # vim-haml
 
-This project contains the runtime files for Haml, Sass, and SCSS that ship
+This project contains the runtime files for Haml that ship
 with Vim.  You only need it if you want the very latest updates.
 
 ## License
